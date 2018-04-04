@@ -1,0 +1,10 @@
+/home/mosgaz/Workspace/Идутвук/lego/cylinders10_prerender.blend
+/home/mosgaz/Workspace/Идутвук/lego/cylinders9_prerender.blend
+/home/mosgaz/Workspace/Идутвук/lego/cylinders8_prerender.blend
+/home/mosgaz/Workspace/Идутвук/lego/c+cube2.blend
+/home/mosgaz/Workspace/Идутвук/lego/c+cube1.blend
+/home/mosgaz/Workspace/Идутвук/lego/cylinders7.blend
+/home/mosgaz/Workspace/Идутвук/lego/cylinders6.blend
+/home/mosgaz/Workspace/Идутвук/lego/cylinders5.blend
+/home/mosgaz/Workspace/Идутвук/lego/cylinders4.blend
+/home/mosgaz/Workspace/Идутвук/lego/cylinders3.blend

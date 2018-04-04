@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/mosgaz/Downloads/
+/tmp/
+/home/mosgaz/Pictures/
+/home/mosgaz/Workspace/Идутвук/stairs/textures/
+/home/mosgaz/Workspace/Идутвук/stairs/
+/home/mosgaz/Workspace/Идутвук/medhouse/textures/
+/home/mosgaz/Workspace/Идутвук/medhouse/
+/home/mosgaz/external_paint_autorefresh_3_4/GIMP_Autorefresh/
+/home/mosgaz/external_paint_autorefresh_3_4/Blender_Autorefresh/
+/home/mosgaz/
