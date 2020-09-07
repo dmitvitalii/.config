@@ -204,6 +204,12 @@ exec --no-startup-id feh --bg-scale /home/mosgaz/Images/grandcontrol.jpg
 exec --no-startup-id xrdb -merge ~/.Xdefaults
 exec --no-startup-id xsetwacom --set "Wacom Bamboo One M Pen stylus" mode relative
 
-exec --no-startup-id setxkbmap -option grp:caps_toggle us,ru
+# Full screen
+bindsym --release Print exec --no-startup-id shutter -f -e -o "$HOME/Pictures/Screenshots/Screenshot_%T.png"
 
-bindsym --release Print exec --no-startup-id scrot
+# Region
+bindsym --release Shift+Print exec --no-startup-id shutter -s -e -o "$HOME/Pictures/Screenshots/Window_%T.png"
+
+# Active Window
+bindsym --release Ctrl+Print exec --no-startup-id shutter -a -e -o "$HOME/Pictures/Screenshots/Region_%T.png"
+
