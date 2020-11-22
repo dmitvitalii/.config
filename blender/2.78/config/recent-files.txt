@@ -1,6 +1,0 @@
-/home/mosgaz/Workspace/Идутвук/stairs/stairs.blend
-/home/mosgaz/Workspace/Идутвук/medhouse/house.blend
-/home/mosgaz/.cxoffice/Pixel Art Shader/dosdevices/c:/Program Files (x86)/Blender Pixel Shader/PixelArtShader_v1.0.1/sample2/src/sample2.blend
-/home/mosgaz/.cxoffice/Pixel Art Shader/dosdevices/c:/Program Files (x86)/Blender Pixel Shader/PixelArtShader_v1.0.1/sample1/src/sample1.blend
-/home/mosgaz/Documents/Blender/Blender.blend
-/home/mosgaz/Documents/Blender/uglick.blend

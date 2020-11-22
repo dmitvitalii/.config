@@ -1,0 +1,1 @@
+{nouveau/NV136/4.3 (Core Profile) Mesa 20.0.8}=SUPPORTED
